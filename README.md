@@ -3,7 +3,7 @@
 ### Description
 The Finance Application is a Java tool for calculating loans and interest. Users enter principal, annual rate, and term to instantly see monthly payment, total interest, and a full amortization schedule, with simple tools to compare different rate/term scenarios.This was an problem on chapter 16: JavaFX Controls and Mutimedia  in the book **Introduction To Java** by **Y.  Danieal Liang**
 
-### PreRequesets
+### PreRequisite
 [Download and install Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)
 [Download and install Open JavaFX](https://openjfx.io/)
 
