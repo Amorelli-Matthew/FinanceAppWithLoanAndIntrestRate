@@ -1,0 +1,20 @@
+# Financial App With Loan And Intrest Rate
+
+### Description
+The Finance Application is a Java tool for calculating loans and interest. Users enter principal, annual rate, and term to instantly see monthly payment, total interest, and a full amortization schedule, with simple tools to compare different rate/term scenarios.This was an problem on chapter 16: JavaFX Controls and Mutimedia  in the book **Introduction To Java** by **Y.  Danieal Liang**
+
+### PreRequesets
+[Download and install Java JDK 17+](https://www.oracle.com/java/technologies/downloads/)
+[Download and install Open JavaFX](https://openjfx.io/)
+
+### To compile
+In the current directory, run **Compile.bat**
+### To Run
+In the current directory, run **Run.bat**
+### To Clean Build Files
+In the current directory, run **Clean.bat**
+
+## License Notice
+Licesed as GPLV3 See `LICENSE` for details
+The Oracle JDK is licensed under the [Oracle No-Fee Terms and Conditions](https://www.oracle.com/downloads/licenses/no-fee-license.html).  
+See `LICENSE-OracleJDK.txt` for the full text.
