@@ -16,6 +16,7 @@ In the current directory, run **Clean.bat**
 
 ## License Notice
 Licesed as GPLV3 See `LICENSE` for details
+
 The Oracle JDK is licensed under the [Oracle No-Fee Terms and Conditions](https://www.oracle.com/downloads/licenses/no-fee-license.html).  
 See `LICENSE-OracleJDK.txt` for the full text.
 
